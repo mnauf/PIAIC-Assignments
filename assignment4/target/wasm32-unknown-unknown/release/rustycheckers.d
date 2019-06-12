@@ -1,0 +1,1 @@
+/home/naufil/Desktop/rust/rustycheckers/target/wasm32-unknown-unknown/release/rustycheckers.wasm: /home/naufil/Desktop/rust/rustycheckers/src/board.rs /home/naufil/Desktop/rust/rustycheckers/src/game.rs /home/naufil/Desktop/rust/rustycheckers/src/lib.rs
